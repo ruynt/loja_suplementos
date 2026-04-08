@@ -1,9 +1,37 @@
 [
     {
         "id_produto": 1,
-        "nome": "Whey",
-        "categoria": "Proteína",
-        "preco": 100.0,
-        "quantidade_estoque": 98
+        "nome": "Whey Concentrado 1kg Growth",
+        "categoria": "Proteina",
+        "preco": 149.99,
+        "quantidade_estoque": 50
+    },
+    {
+        "id_produto": 2,
+        "nome": "Whey Concentrado 900g DarkLab",
+        "categoria": "Proteina",
+        "preco": 99.99,
+        "quantidade_estoque": 50
+    },
+    {
+        "id_produto": 3,
+        "nome": "Creatina MonoHidratada 1kg DarkLab",
+        "categoria": "Creatina",
+        "preco": 69.99,
+        "quantidade_estoque": 50
+    },
+    {
+        "id_produto": 4,
+        "nome": "Creatina Hardcore 300g Integral Medica",
+        "categoria": "Creatina",
+        "preco": 62.0,
+        "quantidade_estoque": 50
+    },
+    {
+        "id_produto": 5,
+        "nome": "Creatina 300g MAX TITTANIUM",
+        "categoria": "Creatina",
+        "preco": 49.99,
+        "quantidade_estoque": 50
     }
 ]
