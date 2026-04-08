@@ -1,7 +1,7 @@
 # Sistema de Vendas - Loja de Suplementos
 
 ## Descrição
-Este projeto consiste em um sistema de vendas para uma loja de suplementos, desenvolvido em Python. O sistema permite cadastrar produtos, controlar estoque, adicionar itens ao carrinho e finalizar pedidos.
+Este projeto consiste em um sistema de vendas desenvolvido em Python. O sistema permite cadastrar produtos, controlar estoque, adicionar itens ao carrinho e finalizar pedidos.
 
 ## Funcionalidades
 - Cadastro de produtos
