@@ -1,0 +1,16 @@
+[
+    {
+        "id_pedido": 1,
+        "data": "08/04/2026 01:04:23",
+        "valor_total": 200.0,
+        "itens": [
+            {
+                "id_produto": 1,
+                "nome": "Whey",
+                "quantidade": 2,
+                "preco_unitario": 100.0,
+                "subtotal": 200.0
+            }
+        ]
+    }
+]

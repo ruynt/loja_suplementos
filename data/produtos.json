@@ -1,0 +1,9 @@
+[
+    {
+        "id_produto": 1,
+        "nome": "Whey",
+        "categoria": "Proteína",
+        "preco": 100.0,
+        "quantidade_estoque": 98
+    }
+]
